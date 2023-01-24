@@ -13,7 +13,14 @@
           "overview": "A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.",
           "poster_path": "/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
           "title": "Monster Hunter"
-        }
+        },
+        {
+          "id": 3,
+          "original_title": "Zack Snyder's Justice League",
+          "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+          "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+          "title": "Zack Snyder's Justice League",
+        },
     ],
     "profile": {
         "name": "JoseAngelH"
