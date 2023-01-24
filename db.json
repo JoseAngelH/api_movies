@@ -22,17 +22,5 @@
       "poster_path": "/1UCOF11QCw8kcqvce8LKOO6pimh.jpg",
       "release_date": "2020-12-03",
       "title": "Monster Hunter"
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
-      "genre_ids": [28, 80, 53],
-      "id": 587996,
-      "original_language": "es",
-      "original_title": "Bajocero",
-      "overview": "When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.",
-      "poster_path": "/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg",
-      "release_date": "2021-01-29",
-      "title": "Below Zero"
     }
   ]
