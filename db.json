@@ -26,8 +26,14 @@
           "original_title": "Wonder Woman 1984",
           "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
           "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
-          "release_date": "2020-12-16",
           "title": "Wonder Woman 1984"
+        },
+        {
+          "id": 5,
+          "original_title": "Godzilla vs. Kong",
+          "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+          "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+          "title": "Godzilla vs. Kong",
         }
     ],
     "profile": {
