@@ -136,6 +136,13 @@
           "title": "Wrong Turn"
         }
     ],
+    "user":[
+        {
+            "id": 1,
+            "email": "20200737@uthh.edu.mx",
+            "password": "uthh2023"
+        }
+    ],
     "profile": {
         "name": "JoseAngelH"
     }
