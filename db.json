@@ -67,7 +67,7 @@
           "id": 8,
           "original_language": "ko",
           "subtitle": "yes",
-          "genre": "Ficcion",
+          "genre": "Terror",
           "overview": "When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.",
           "poster_path": "/qiUesQForGW872kIC0Crqx3vAr0.jpg",
           "title": "Space Sweepers"
@@ -89,6 +89,51 @@
           "overview": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
           "poster_path": "/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg",
           "title": "Red Dot"
+        },
+        {
+          "id": 11,
+          "original_language": "en",
+          "subtitle": "no",
+          "genre": "Accion",
+          "overview": "Prince Akeem Joffer is set to become King of Zamunda when he discovers he has a son he never knew about in America – a street savvy Queens native named Lavelle. Honoring his royal father's dying wish to groom this son as the crown prince, Akeem and Semmi set off to America once again.",
+          "poster_path": "/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",
+          "title": "Coming 2 America"
+        },
+        {
+          "id": 12,
+          "original_language": "en",
+          "subtitle": "no",
+          "genre": "Accion",
+          "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+          "poster_path": "/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg",
+          "title": "Outside the Wire"
+        },
+        {
+          "id": 13,
+          "original_language": "en",
+          "subtitle": "yes",
+          "genre": "Suspenso",
+          "overview": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.",
+          "poster_path": "/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg",
+          "title": "The Little Things"
+        },
+        {
+          "id": 14,
+          "original_language": "en",
+          "subtitle": "no",
+          "genre": "Drama",
+          "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+          "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+          "title": "After We Collided"
+        },
+        {
+          "id": 15,
+          "original_language": "en",
+          "subtitle": "no",
+          "genre": "Accion",
+          "overview": "Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.",
+          "poster_path": "/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg",
+          "title": "Wrong Turn"
         }
     ],
     "profile": {
